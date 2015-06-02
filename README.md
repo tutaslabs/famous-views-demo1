@@ -10,4 +10,7 @@ Clone into a new folder and start meteor!
 
 Enjoy.
 
+See it running here - http://tutlab-fview-mixed.meteor.com
+
+
 
